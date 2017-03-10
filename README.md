@@ -1,7 +1,12 @@
 # Awesome Icon fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of amazingly awesome Icon fonts, of cause for the web!
 
+# this is work in progress.
+
 ## Contents
+
+- [Generators](#generators)
+- [Icon fonts that are Open Source](#icon-fonts-that-are-open-source)
 
 
 ## Generators
@@ -17,5 +22,3 @@
 - [Open Iconic](https://useiconic.com/open) - An open source icon set with 223 marks - [[GitHub]](https://github.com/iconic/open-iconic) - [[CDN]](https://cdnjs.com/libraries/open-iconic)
 - [Maki](https://www.mapbox.com/maki-icons/) - Maki is an icon set made for map designers - [[GitHub]](https://github.com/mapbox/maki)
 - [Simple Line Icons](http://simplelineicons.com/) - Simple and Minimal Line Icons - [[GitHub]](https://github.com/thesabbir/simple-line-icons/) - [[CDN]](https://cdnjs.com/libraries/simple-line-icons)
-
-https://github.com/mapbox/maki
