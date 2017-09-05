@@ -17,17 +17,17 @@
 
 ## Legend
 
-- ![open source](https://git.io/v5zHy) - Open source
-- ![cdn](https://git.io/v5zH7) - has a CDN option
+- :octocat: - Open source
+- :rocket: - has a CDN option
 
 ## Icon fonts
 
-- [Font Awesome](http://fontawesome.io/) - The iconic font and CSS toolkit. [![open source](https://git.io/v5zHy)](https://github.com/FortAwesome/Font-Awesome) [![cdn](https://git.io/v5zH7)](https://cdnjs.com/libraries/font-awesome)
-- [Material icons](https://material.io/icons/) - Over 900 material system icons from Google. [![open source](https://git.io/v5zHy)](https://github.com/google/material-design-icons) [![cdn](https://git.io/v5zH7)](http://google.github.io/material-design-icons/#icon-font-for-the-web)
-- [Entypo](http://www.entypo.com/) - 411 carefully crafted premium pictograms by Daniel Bruce. [![open source](https://git.io/v5zHy)](https://github.com/danielbruce/entypo) [![cdn](https://git.io/v5zH7)](https://cdnjs.com/libraries/entypo)
-- [Open Iconic](https://useiconic.com/open) - An open source icon set with 223 marks. [![open source](https://git.io/v5zHy)](https://github.com/iconic/open-iconic) [![cdn](https://git.io/v5zH7)](https://cdnjs.com/libraries/open-iconic)
-- [Maki](https://www.mapbox.com/maki-icons/) - Maki is an icon set made for map designers. [![open source](https://git.io/v5zHy)](https://github.com/mapbox/maki)
-- [Simple Line Icons](http://simplelineicons.com/) - Simple and Minimal Line Icons. [![open source](https://git.io/v5zHy)](https://github.com/thesabbir/simple-line-icons/) [![cdn](https://git.io/v5zH7)](https://cdnjs.com/libraries/simple-line-icons)
+- [Font Awesome](http://fontawesome.io/) - The iconic font and CSS toolkit. [:octocat:](https://github.com/FortAwesome/Font-Awesome) [:rocket:](https://cdnjs.com/libraries/font-awesome)
+- [Material icons](https://material.io/icons/) - Over 900 material system icons from Google. [:octocat:](https://github.com/google/material-design-icons) [:rocket:](http://google.github.io/material-design-icons/#icon-font-for-the-web)
+- [Entypo](http://www.entypo.com/) - 411 carefully crafted premium pictograms by Daniel Bruce. [:octocat:](https://github.com/danielbruce/entypo) [:rocket:](https://cdnjs.com/libraries/entypo)
+- [Open Iconic](https://useiconic.com/open) - An open source icon set with 223 marks. [:octocat:](https://github.com/iconic/open-iconic) [:rocket:](https://cdnjs.com/libraries/open-iconic)
+- [Maki](https://www.mapbox.com/maki-icons/) - Maki is an icon set made for map designers. [:octocat:](https://github.com/mapbox/maki)
+- [Simple Line Icons](http://simplelineicons.com/) - Simple and Minimal Line Icons. [:octocat:](https://github.com/thesabbir/simple-line-icons/) [:rocket:](https://cdnjs.com/libraries/simple-line-icons)
 
 
 ## License
