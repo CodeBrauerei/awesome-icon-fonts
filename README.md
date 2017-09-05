@@ -6,6 +6,7 @@
 ## Contents
 
 - [Generators](#generators)
+- [Legend](#legend)
 - [Icon fonts that are Open Source](#icon-fonts-that-are-open-source)
 
 
