@@ -28,7 +28,8 @@
 - [Simple Line Icons](http://simplelineicons.com/) - Simple and Minimal Line Icons. [:octocat:](https://github.com/thesabbir/simple-line-icons/) [:rocket:](https://cdnjs.com/libraries/simple-line-icons)
 - [Dashicons](https://developer.wordpress.org/resource/dashicons/) - Dashicons, the WordPress admin icon font. [:octocat:](https://github.com/WordPress/dashicons)
 - [Octicons](https://octicons.github.com/) - A scalable set of icons handcrafted with <3 by GitHub. [:octocat:](https://github.com/primer/octicons) [:rocket:](https://cdnjs.com/libraries/octicons)
-- [DEVICON](http://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. [:octocat:](https://github.com/konpa/devicon/) 
+- [DEVICON](http://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. [:octocat:](https://github.com/konpa/devicon/)
+- [Themify Icons](http://themify.me/themify-icons) - A complete site/app set of 320+ icons inspired by iOS 7 [:octocat:](https://github.com/lykmapipo/themify-icons)
 
 
 ## License
