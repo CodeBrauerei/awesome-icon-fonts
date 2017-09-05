@@ -26,6 +26,7 @@
 - [Open Iconic](https://useiconic.com/open) - An open source icon set with 223 marks. [:octocat:](https://github.com/iconic/open-iconic) [:rocket:](https://cdnjs.com/libraries/open-iconic)
 - [Maki](https://www.mapbox.com/maki-icons/) - Maki is an icon set made for map designers. [:octocat:](https://github.com/mapbox/maki)
 - [Simple Line Icons](http://simplelineicons.com/) - Simple and Minimal Line Icons. [:octocat:](https://github.com/thesabbir/simple-line-icons/) [:rocket:](https://cdnjs.com/libraries/simple-line-icons)
+- [Dashicons](https://developer.wordpress.org/resource/dashicons/) - Dashicons, the WordPress admin icon font. [:octocat:](https://github.com/WordPress/dashicons)
 
 
 ## License
