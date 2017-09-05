@@ -7,7 +7,7 @@ Ensure your pull request adheres to the following guidelines:
 - Submitted icon fonts should be tested.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[package](link) - Description.`
-- The link should point to the Github repository, if there is a offical one.
+- Add (if possible) the suitable legend icon and link them correctly.
 - Additions should be added to the bottom of the relevant section.
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
