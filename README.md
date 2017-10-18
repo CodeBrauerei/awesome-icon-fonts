@@ -1,11 +1,11 @@
 # Awesome icon fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of amazingly awesome Icon fonts, of cause for the web!
+> A curated list of amazingly awesome Icon fonts, of cause for the web and open source!
 
 ## Contents
 
 - [Generators](#generators)
 - [Legend](#legend)
-- [Icon fonts that are Open Source](#icon-fonts-that-are-open-source)
+- [Icon fonts](#icon-fonts)
 
 
 ## Generators
@@ -15,7 +15,7 @@
 
 ## Legend
 
-- :octocat: - Open source
+- :octocat: - has a GitHub repository
 - :rocket: - has a CDN option
 
 ## Icon fonts
