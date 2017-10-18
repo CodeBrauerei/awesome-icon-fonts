@@ -31,6 +31,8 @@
 - [DEVICON](http://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. [:octocat:](https://github.com/konpa/devicon/)
 - [Themify Icons](http://themify.me/themify-icons) - A complete site/app set of 320+ icons inspired by iOS 7. [:octocat:](https://github.com/lykmapipo/themify-icons)
 - [JAM icons](http://jam-icons.com/) - 422 handcrafted & pixel perfect icons. [:octocat:](https://github.com/michaelampr/jam)
+- [Metrize Icons](http://www.alessioatzeni.com/metrize-icons/) - Collection of 300 Metro-Style Icons.
+- [Dripicons](http://demo.amitjakhu.com/dripicons/) - A completely free vector line-icon font. [:octocat:](https://github.com/amitjakhu/dripicons) [:rocket:](https://www.jsdelivr.com/package/npm/dripicons) _(CDN is a fork)_
 
 
 ## License
