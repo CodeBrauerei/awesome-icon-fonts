@@ -12,7 +12,7 @@
 
 - [IcoMoon App](https://icomoon.io/app) - 4000+ free vector icons, SVG import, convert to many formats, basic glyph editing.
 - [Fontello](http://fontello.com/) - This tool lets you combine icon webfonts for your own project.
-- [Icongram](https://icongr.am/) - Icons on the fly from popular icons sets in hassle-free.
+- [Icongram](https://icongr.am/) - Icons on the fly from popular icons sets as SVG hassle-free.
 
 ## Legend
 
